@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Enzo Perroni  
 
-💻 **Software Engineer** passionate about building efficient, scalable, and well-crafted solutions.
+💻 **Software Engineer**
 
 ---
 
@@ -33,4 +33,4 @@
 
 ---
 
-🧩 *“Code is like art — elegant, structured, and always evolving.”*
+🧩 *“Code is nice👍.”*
